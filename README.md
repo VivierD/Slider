@@ -11,4 +11,4 @@ This project was built using these technologies :
 ## GETTING STARTED
 1. Installation: yarn install
 
-2. In the project directory, you can run: yarn start
+2. In the project directory, you can run: yarn start.
